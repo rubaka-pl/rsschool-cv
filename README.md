@@ -1,1 +1,1 @@
-# rsschool-cv
+https://rubaka-pl.github.io/rsschool-cv/cv

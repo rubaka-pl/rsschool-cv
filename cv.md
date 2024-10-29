@@ -29,7 +29,7 @@ function loadCardsFromLocalStorage() {
 ```
 
 ## Projects
-[anime-api](https://animerubaka.netlify.app/)
+[Anime-api](https://animerubaka.netlify.app/)
 
 [Victory Zone](https://regal-cupcake-632db1.netlify.app/)
 
